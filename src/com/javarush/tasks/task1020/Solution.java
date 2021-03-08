@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 /*
 Задача по алгоритмам Ӏ Java Syntax: 10 уровень, 11 лекция
 */
-
+//testing new branch
 public class Solution {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
