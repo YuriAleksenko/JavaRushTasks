@@ -23,7 +23,6 @@ public class Solution {
     }
 
     public static void sort(int[] array) {
-        //напишите тут ваш код
         boolean swap;
         int curDigit;
         do {
